@@ -34,6 +34,7 @@
     "svg",
     "draw"
   ],
+  "authors": "terrylinla",
   "license": "MIT",
   "main": "index.js",
   "name": "@stanislavpoleshuk/react-native-sketch-canvas",
