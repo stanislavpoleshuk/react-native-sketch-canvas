@@ -1,29 +1,14 @@
+
 {
-  "_from": "@stanislavpoleshuk/react-native-sketch-canvas",
-  "_id": "@stanislavpoleshuk/react-native-sketch-canvas@0.8.0",
-  "_inBundle": false,
-  "_integrity": "sha512-rWLZkvYbbQ2Pje8AyT7+8nunXRNaOjfpJTYUHfUH1EVvRs+Es0rJlqoS1UmQbhKCXIra8xiBBD1jHs10S//mxg==",
-  "_location": "/@stanislavpoleshuk/react-native-sketch-canvas",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "tag",
-    "registry": true,
-    "raw": "@stanislavpoleshuk/react-native-sketch-canvas",
-    "name": "@stanislavpoleshuk/react-native-sketch-canvas",
-    "escapedName": "@stanislavpoleshuk%2freact-native-sketch-canvas",
-    "scope": "@stanislavpoleshuk",
-    "rawSpec": "",
-    "saveSpec": null,
-    "fetchSpec": "latest"
+  "name": "@stanislavpoleshuk/react-native-sketch-canvas",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stanislavpoleshuk/react-native-sketch-canvas"
   },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
-  "bundleDependencies": false,
-  "deprecated": false,
+  "version": "0.8.0",
   "description": "react-native-sketch-canvas allows you to draw / sketch on both iOS and Android devices and sync the drawing data between users. Of course you can save as image.",
-  "homepage": "https://github.com/https://github.com/stanislavpoleshuk/react-native-sketch-canvas/react-native-sketch-canvas#readme",
+  "author": "Terry Lin",
+  "main": "index.js",
   "keywords": [
     "react-native",
     "react-native-sketch",
@@ -34,14 +19,6 @@
     "svg",
     "draw"
   ],
-  "authors": "terrylinla",
-  "license": "MIT",
-  "main": "index.js",
-  "name": "@stanislavpoleshuk/react-native-sketch-canvas",
   "nativePackage": true,
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/stanislavpoleshuk/react-native-sketch-canvas"
-  },
-  "version": "0.8.0"
+  "license": "MIT"
 }
